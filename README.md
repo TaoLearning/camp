@@ -1,1 +1,1 @@
-# camp
+# Curiosity Camp
